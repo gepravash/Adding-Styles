@@ -1,0 +1,94 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "name": "Jay Shrestha",
+      "number": "9813257123 ",
+      "important": false
+    },
+    {
+      "id": 2,
+      "name": "Jane Magar",
+      "number": "986385001",
+      "important": true
+    },
+    {
+      "id": 3,
+      "name": "Bijay Tuladhar",
+      "number": "9813029012",
+      "important": true
+    },
+    {
+      "id": 4,
+      "name": "Ali Khan",
+      "number": "9841223456",
+      "important": false
+    },
+    {
+      "id": 6,
+      "name": "Makar Giri",
+      "number": "9861258947",
+      "important": false
+    },
+    {
+      "id": 7,
+      "name": "Maya Giri",
+      "number": "9861258941",
+      "important": false
+    },
+    {
+      "id": 8,
+      "name": "Mayur Dhakal",
+      "number": "9860145784",
+      "important": false
+    },
+    {
+      "id": 9,
+      "name": "Pravash Shrestha",
+      "number": "9860547812",
+      "important": false
+    },
+    {
+      "id": 10,
+      "name": "Ram Krishna Dhakal",
+      "number": "9851235689",
+      "important": true
+    },
+    {
+      "id": 11,
+      "name": "Ajay Devgan",
+      "number": "9865221000",
+      "important": true
+    },
+    {
+      "id": 12,
+      "name": "Arjit Singh",
+      "number": "9823451278",
+      "important": false
+    },
+    {
+      "id": 14,
+      "name": "Anish Manandhar",
+      "number": "9841235687",
+      "important": false
+    },
+    {
+      "id": 15,
+      "name": "Ajay Tuladhar",
+      "number": "986385099",
+      "important": true
+    },
+    {
+      "id": 16,
+      "name": "Hritik Roshan",
+      "number": "9813234589",
+      "important": false
+    },
+    {
+      "id": 17,
+      "name": "Akbar Shah",
+      "number": "9813025863",
+      "important": true
+    }
+  ]
+}
